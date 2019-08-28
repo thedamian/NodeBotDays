@@ -38,35 +38,3 @@ Some good examples and documentation can be found at: http://johnny-five.io/exam
 
 
 
-Some Extra notes about the ESP8266 D1 Mini's PINs. This are NOT important unless you run into an issue:
-nc = not connected
-0 -> d3
-1 -> nc
-2 -> d4 = led
-3 -> nc
-4 -> d2
-5 -> d1
-6 -> watchdog(4) reset
-7 -> watchdog(4) reset
-8 -> watchdog(4) reset
-9 -> watchdog(4) reset
-10 -> nc
-11 -> watchdog(4) reset
-12 -> d7 low, d6 sporadic
-13 -> d0 high, d7 sporadic
-14 -> d0 high, d6 low, d7 low, d5 sporadic
-15 -> d0 high, d8 sporadic
-16 -> d0
-17 -> nc
-18 -> nc
-19 -> nc
-20 -> stack trace and pin-based(2) reset
-21 -> stack trace and watchdog(4) reset
-22 -> stack trace and watchdog(4) reset
-23 -> stack trace and watchdog(4) reset
-24 -> nc
-25 -> nc
-26 -> nc
-27 -> nc
-28 -> nc
-29 -> nc
