@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="http://nodebots.io/img/equation.png">
-</p>
+  <img src="http://nodebots.io/img/equation.png" align="center">
+
 # NodeBotDays
 You'll find our Installation notes &amp; Start up script for our annual NodeBotDays Event
 
@@ -24,12 +23,12 @@ Note the instructions are different for Mac and Windows (linux follow Mac's inst
 - If you're in a Mac (Windows ignore this) run: npm i
 - Now edit the johnnyFiveSample.js and CHANGE the IP value: "192.168.29.50" to what matches your device and save the file.
 - You're done. Run it by running "node johnnyFiveSample.js"
-It should now show something line this:
+It should now show something line this:<BR />
 
-1531436035013 SerialPort Connecting to host:port: 192.168.29.50:3030
-1531436035016 Connected Connecting to host:port: 192.168.29.50:3030
-READY!
-IT'S BLINKING!!!
+1531436035013 SerialPort Connecting to host:port: 192.168.29.50:3030<BR />
+1531436035016 Connected Connecting to host:port: 192.168.29.50:3030<BR />
+READY!<BR />
+IT'S BLINKING!!!<BR />
 
 
 
